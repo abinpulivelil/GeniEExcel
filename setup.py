@@ -12,7 +12,7 @@ setup(
     author='Abin Pulivelil Thomas',
     author_email='abin.pulivelil@dnv.com',
     description='This library will import Excel to Convert to GeniE javascript',
-    url='https://github.com/abinpulivelil/GeniE_Excel', 
+    url='https://github.com/abinpulivelil/GeniE_Excel.git', 
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
