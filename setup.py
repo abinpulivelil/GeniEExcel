@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='GeniE_Excel',
     version='0.1',
-    packages=['GeniE_Excel'],
+    #packages=['GeniE_Excel'],
     #install_requires=[
     #    'dependency1',
     #    'dependency2',
